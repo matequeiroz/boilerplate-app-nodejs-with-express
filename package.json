@@ -1,0 +1,31 @@
+{
+  "name": "boilerplate-app-nodejs-with-expressjs",
+  "version": "2.0.0",
+  "description": "Boilerplate for apps nodejs with express",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matequeiroz/boilerplate-app-nodejs-with-expressjs.git"
+  },
+  "keywords": [
+    "[\"nodejs\"",
+    "\"express\"",
+    "\"javascript\"",
+    "\"js\"",
+    "\"boilerplate\"]"
+  ],
+  "author": "Mateus Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matequeiroz/boilerplate-app-nodejs-with-expressjs/issues"
+  },
+  "homepage": "https://github.com/matequeiroz/boilerplate-app-nodejs-with-expressjs#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
